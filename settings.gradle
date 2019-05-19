@@ -1,0 +1,3 @@
+include ':app'
+include ':pusher-websocket-java'
+
